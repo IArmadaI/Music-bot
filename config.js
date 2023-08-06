@@ -1,7 +1,7 @@
 module.exports = {
     app: {
         token: '1137813803262812190',
-        playing: 'by Zerio ❤️',
+        playing: 'Playing...',
         global: true,
         guild: 'XXX'
     },
